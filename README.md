@@ -107,10 +107,23 @@ make test_tree
 ---
 
 ## 📸 Screenshots Included
+
 ### Phase 1: Object storage tests
 ![Phase 1](screenshots/1a.png)
 ![Phase 1](screenshots/1b.png)
 
+### Phase 2: Object storage tests
+![Phase 2](screenshots/2a.png)
+![Phase 2](screenshots/2b.png)
+
+### Phase 3: Object storage tests
+![Phase 3](screenshots/3a.png)
+![Phase 3](screenshots/3b.png)
+
+### Phase 4: Object storage tests
+![Phase 4](screenshots/4a.png)
+![Phase 4](screenshots/4b.png)
+![Phase 4](screenshots/4c.png)
 
 ---
 
