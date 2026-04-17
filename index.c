@@ -239,3 +239,4 @@ int index_add(Index *index, const char *path) {
 
     return index_save(index);
 }// phase3 change1
+// phase3 change2
